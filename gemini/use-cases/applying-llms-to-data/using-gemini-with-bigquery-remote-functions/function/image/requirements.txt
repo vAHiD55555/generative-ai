@@ -1,3 +1,4 @@
 functions-framework
 google-cloud-aiplatform
 vertexai
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
