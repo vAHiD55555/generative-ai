@@ -1,3 +1,4 @@
 google-cloud-aiplatform >= 1.31.0
 google-cloud-logging
 gradio
+aiohttp>=3.10.11 # not directly required, pinned by Snyk to avoid a vulnerability
