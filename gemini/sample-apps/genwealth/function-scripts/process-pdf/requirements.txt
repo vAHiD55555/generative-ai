@@ -9,3 +9,4 @@ langchain-core==0.1.45
 langchain-google-alloydb-pg==0.1.0
 langchain-google-vertexai==1.0.1
 langchain-text-splitters==0.0.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
