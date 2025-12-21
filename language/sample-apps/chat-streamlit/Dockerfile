@@ -1,4 +1,4 @@
-FROM python:3.8
+FROM python:3.14.0rc1
 
 EXPOSE 8080
 WORKDIR /app
