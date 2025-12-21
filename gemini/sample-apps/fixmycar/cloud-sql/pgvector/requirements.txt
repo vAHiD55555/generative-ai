@@ -4,3 +4,4 @@ nltk
 pandas
 ipykernel
 google-cloud-aiplatform
+pdfminer.six>=20251107 # not directly required, pinned by Snyk to avoid a vulnerability
