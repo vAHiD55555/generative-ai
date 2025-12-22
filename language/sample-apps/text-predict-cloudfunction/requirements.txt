@@ -1,3 +1,4 @@
 functions-framework==3.*
 google-cloud-aiplatform >= 1.31.0
 google-cloud-logging
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
