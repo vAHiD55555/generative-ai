@@ -2,3 +2,5 @@ torch
 transformers[torch]
 datasets
 google-cloud-aiplatform
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
